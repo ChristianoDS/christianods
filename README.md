@@ -6,7 +6,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianods&show_icons=true&theme=holi)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianods&layout=compact&theme=holi)
 ---
-# Some tools that I'm working with
+# Some tools that I'm working with 🔨
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -17,12 +17,12 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ---
-# Projects Portfolio
+# Projects Portfolio 📂
 
 - [Zomato Data Analysis](https://github.com/ChristianoDS/zomato_project)
 
 ---
-# Papers
+# Papers 📑
 #### I have published a paper in a renowned scientific journal applying machine learning in my Phd research. 📝
 
 #### [Paper](https://www.sciencedirect.com/science/article/pii/S2212982024000155)
@@ -36,7 +36,7 @@
 - Storytelling
 
 ---
-# Contact Me 
+# Contact Me 📧
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianods/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://christianods.github.io/portifolio_projetos/)
