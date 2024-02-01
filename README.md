@@ -18,9 +18,8 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ---
 # Projects Portfolio
-- Zomato Data Analysis
-  
-[Zomato Data Analysis](https://github.com/ChristianoDS/zomato_project)
+
+- [Zomato Data Analysis](https://github.com/ChristianoDS/zomato_project)
 
 ---
 # Papers
