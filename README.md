@@ -1,6 +1,6 @@
 ### 🚀 Fala rede !! Me chamo Christiano Peres
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianods&show_icons=true&theme=holi&card_width=auto)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianods&layout=compact&theme=holi&card_width=auto)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianods&show_icons=true&theme=holi&card_width=auto&height=150)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianods&layout=compact&theme=holi&card_width=auto&height=150)
 
 - 🎓 Sou formado em Engenharia Ambiental e atualmente sou doutorando.
 - 🔬💻 Atualmente, estou focado em meu projeto de doutorado, desenvolvendo um modelo preditivo de machine learning para captura de CO2 atmosférico em fontes de biomassa. Além disso, trabalho em projetos pessoais sobre Ciência de Dados para adquirir mais experiência na solução de problemas de negócio e dominar as ferramentas de análise de dados.
