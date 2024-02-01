@@ -1,6 +1,5 @@
 ### 🚀 Fala rede !! Me chamo Christiano Peres
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianods&show_icons=true&theme=holi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianods)](https://github.com/christianods/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianods&layout=compact&theme=holi)
 
 - 🎓 Sou formado em Engenharia Ambiental e atualmente sou doutorando.
