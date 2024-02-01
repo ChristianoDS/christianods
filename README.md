@@ -7,6 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianods&layout=compact&theme=holi)
 ---
 Some tools that I'm working with
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -17,11 +18,13 @@ Some tools that I'm working with
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ---
 Projects Portfolio
+
 [Zomato Project Data Analysis](https://github.com/ChristianoDS/zomato_project)
 
 ---
 Papers
 #### I have published a paper in a renowned scientific journal applying machine learning in my doctoral research. 📝
+
 [Veja aqui!](https://www.sciencedirect.com/science/article/pii/S2212982024000155)
 ---
 Contact Me 
