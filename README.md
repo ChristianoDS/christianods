@@ -23,7 +23,7 @@
 
 ---
 # Papers
-#### I have published a paper in a renowned scientific journal applying machine learning in my doctoral research. 📝
+#### I have published a paper in a renowned scientific journal applying machine learning in my Phd research. 📝
 
 #### [Paper](https://www.sciencedirect.com/science/article/pii/S2212982024000155)
 
