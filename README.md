@@ -13,8 +13,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### Contact Me 
-[Medium](https://medium.com/@christianoDS)
-
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@christianoDS)
 
 
 - 🎓 Sou formado em Engenharia Ambiental e atualmente sou doutorando.
