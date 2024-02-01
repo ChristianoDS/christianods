@@ -1,7 +1,7 @@
 ### 🚀 Fala rede !! Me chamo Christiano Peres
 <div style="display: flex; flex-direction: column;">
-    <img src="https://github-readme-stats.vercel.app/api?username=christianods&show_icons=true&theme=holi&card_width=100" style="width: 10%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianods&layout=compact&theme=holi&card_width=100" style="width: 10%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=christianods&show_icons=true&theme=holi&card_width=100" style="width: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianods&layout=compact&theme=holi&card_width=100" style="width: 50%;">
 </div>
 
 - 🎓 Sou formado em Engenharia Ambiental e atualmente sou doutorando.
