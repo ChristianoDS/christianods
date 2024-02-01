@@ -1,4 +1,4 @@
-🚀 Hello world, I'm Christiano Peres 👋
+# 🚀 Hello world, I'm Christiano Peres 👋
 ---
 #### I'm Data Scientist and Phd Sudent. 🔬💻
 #### Fun fact: I'm a data enthusiast 🎲 and music lover 🤘
@@ -17,18 +17,18 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ---
-Projects Portfolio
+# Projects Portfolio
 
 [Zomato Project Data Analysis](https://github.com/ChristianoDS/zomato_project)
 
 ---
-Papers
+# Papers
 #### I have published a paper in a renowned scientific journal applying machine learning in my doctoral research. 📝
 
 #### [Paper](https://www.sciencedirect.com/science/article/pii/S2212982024000155)
 
 ---
-I’m currently learning about 📖
+# I’m currently learning about 📖
 - Data Science
 - Machine Learning
 - Productivity
@@ -36,7 +36,7 @@ I’m currently learning about 📖
 - Storytelling
 
 ---
-Contact Me 
+# Contact Me 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianods/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://christianods.github.io/portifolio_projetos/)
