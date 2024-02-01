@@ -1,5 +1,7 @@
+---
 ### 🚀 Hello world, I'm Christiano Peres 👋
-
+I'm Data Scientist and Phd Sudent.
+I am a data enthusiast and love music and soccer.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianods&show_icons=true&theme=holi)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianods&layout=compact&theme=holi)
 ---
