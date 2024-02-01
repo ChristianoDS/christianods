@@ -19,7 +19,7 @@
 ---
 # Projects Portfolio
 
-[![Zomato](https://img.shields.io/badge/Zomato-E23744?style=for-the-badge&logo=zomato&logoColor=white)](https://github.com/ChristianoDS/zomato_project)
+[![Zomato Data Analysis](https://img.shields.io/badge/Zomato-E23744?style=for-the-badge&logo=zomato&logoColor=white)](https://github.com/ChristianoDS/zomato_project)
 
 ---
 # Papers
