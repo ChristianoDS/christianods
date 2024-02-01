@@ -25,9 +25,10 @@ Projects Portfolio
 Papers
 #### I have published a paper in a renowned scientific journal applying machine learning in my doctoral research. 📝
 
-[Veja aqui!](https://www.sciencedirect.com/science/article/pii/S2212982024000155)
+#### [Paper](https://www.sciencedirect.com/science/article/pii/S2212982024000155)
 ---
 Contact Me 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianods/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://christianods.github.io/portifolio_projetos/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@christianoDS)
