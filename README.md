@@ -15,12 +15,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-FF4B4B?style=for-the-badge&logo=terminal&logoColor=white)
 
 # Projects Portfolio 📂
 
 - [Zomato Data Analysis](https://github.com/ChristianoDS/zomato_project)
+- [Ensaio de Machine Learning]([https://github.com/ChristianoDS/zomato_project)](https://github.com/ChristianoDS/ensaio-machine-learning)
 
 # Papers 📑
 #### I have published a paper in a renowned scientific journal applying machine learning in my Phd research. 📝
