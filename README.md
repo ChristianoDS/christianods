@@ -22,7 +22,7 @@
 # Projects Portfolio 📂
 
 - [Zomato Data Analysis](https://github.com/ChristianoDS/zomato_project)
-- [Ensaio de Machine Learning]([https://github.com/ChristianoDS/zomato_project)](https://github.com/ChristianoDS/ensaio-machine-learning)
+- [Ensaio de Machine Learning](https://github.com/ChristianoDS/ensaio-machine-learning)
 
 # Papers 📑
 #### I have published a paper in a renowned scientific journal applying machine learning in my Phd research. 📝
