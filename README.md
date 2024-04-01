@@ -21,9 +21,9 @@
 
 # Projects Portfolio 📂
 
-- [Previsão de vendas](https://github.com/ChristianoDS/rossmann_project).
+- [Sales Forecasting](https://github.com/ChristianoDS/rossmann_project).
 - [Zomato Data Analysis](https://github.com/ChristianoDS/zomato_project)
-- [Ensaio de Machine Learning](https://github.com/ChristianoDS/ensaio-machine-learning)
+- [Machine Learning Tests](https://github.com/ChristianoDS/ensaio-machine-learning)
 
 # Papers 📑
 #### I have published a paper in a renowned scientific journal applying machine learning in my Phd research. 📝
