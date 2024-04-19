@@ -34,8 +34,8 @@
 # I’m currently learning about 📖
 - Data Science
 - Machine Learning
-- Productivity
-- Statistics
+- Gen. IA
+- Artificial Inteligence
 - Storytelling
 
 # Contact Me 📧
