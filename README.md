@@ -8,6 +8,7 @@
 
 # Some tools that I'm working with 🔨
 
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6600cc?style=for-the-badge&logo=llamaindex&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
