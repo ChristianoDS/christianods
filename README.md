@@ -24,7 +24,7 @@
 
 # Projects Portfolio 📂
 
-- [Sales Forecasting](https://github.com/ChristianoDS/rossmann_project).
+- [Sales Forecasting](https://github.com/ChristianoDS/rossmann_project)
 - [Zomato Data Analysis](https://github.com/ChristianoDS/zomato_project)
 - [Machine Learning Tests](https://github.com/ChristianoDS/ensaio-machine-learning)
 
